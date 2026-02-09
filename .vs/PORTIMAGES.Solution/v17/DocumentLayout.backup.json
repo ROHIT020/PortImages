@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\PORTIMAGES.Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA9B5386-DFEA-433C-B7EA-1153BC6A0AA3}|PORTIMAGES.Infrastructure\\PORTIMAGES.Infrastructure.csproj|e:\\portimages.solution\\portimages.infrastructure\\repositories\\admin\\portrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA9B5386-DFEA-433C-B7EA-1153BC6A0AA3}|PORTIMAGES.Infrastructure\\PORTIMAGES.Infrastructure.csproj|solutionrelative:portimages.infrastructure\\repositories\\admin\\portrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85657DED-B35B-460E-8FF0-591EB8A45C0B}|PORTIMAGES.Application\\PORTIMAGES.Application.csproj|e:\\portimages.solution\\portimages.application\\admin\\queries\\getportlistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85657DED-B35B-460E-8FF0-591EB8A45C0B}|PORTIMAGES.Application\\PORTIMAGES.Application.csproj|solutionrelative:portimages.application\\admin\\queries\\getportlistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85657DED-B35B-460E-8FF0-591EB8A45C0B}|PORTIMAGES.Application\\PORTIMAGES.Application.csproj|e:\\portimages.solution\\portimages.application\\admin\\dtos\\portresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85657DED-B35B-460E-8FF0-591EB8A45C0B}|PORTIMAGES.Application\\PORTIMAGES.Application.csproj|solutionrelative:portimages.application\\admin\\dtos\\portresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B891EF-EC92-4FB4-A1AC-386753BA75C7}|PORTIMAGES.Web\\PORTIMAGES.Web.csproj|e:\\portimages.solution\\portimages.web\\controllers\\admin\\mastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92B891EF-EC92-4FB4-A1AC-386753BA75C7}|PORTIMAGES.Web\\PORTIMAGES.Web.csproj|solutionrelative:portimages.web\\controllers\\admin\\mastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85657DED-B35B-460E-8FF0-591EB8A45C0B}|PORTIMAGES.Application\\PORTIMAGES.Application.csproj|e:\\portimages.solution\\portimages.application\\admin\\queries\\getterminallistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85657DED-B35B-460E-8FF0-591EB8A45C0B}|PORTIMAGES.Application\\PORTIMAGES.Application.csproj|solutionrelative:portimages.application\\admin\\queries\\getterminallistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PortRepository.cs",
+              "DocumentMoniker": "E:\\PORTIMAGES.Solution\\PORTIMAGES.Infrastructure\\Repositories\\Admin\\PortRepository.cs",
+              "RelativeDocumentMoniker": "PORTIMAGES.Infrastructure\\Repositories\\Admin\\PortRepository.cs",
+              "ToolTip": "E:\\PORTIMAGES.Solution\\PORTIMAGES.Infrastructure\\Repositories\\Admin\\PortRepository.cs",
+              "RelativeToolTip": "PORTIMAGES.Infrastructure\\Repositories\\Admin\\PortRepository.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAADIAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T07:03:57.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PortResponseDTO.cs",
+              "DocumentMoniker": "E:\\PORTIMAGES.Solution\\PORTIMAGES.Application\\Admin\\DTOs\\PortResponseDTO.cs",
+              "RelativeDocumentMoniker": "PORTIMAGES.Application\\Admin\\DTOs\\PortResponseDTO.cs",
+              "ToolTip": "E:\\PORTIMAGES.Solution\\PORTIMAGES.Application\\Admin\\DTOs\\PortResponseDTO.cs",
+              "RelativeToolTip": "PORTIMAGES.Application\\Admin\\DTOs\\PortResponseDTO.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA9wAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T06:58:20.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetTerminalListQuery.cs",
+              "DocumentMoniker": "E:\\PORTIMAGES.Solution\\PORTIMAGES.Application\\Admin\\Queries\\GetTerminalListQuery.cs",
+              "RelativeDocumentMoniker": "PORTIMAGES.Application\\Admin\\Queries\\GetTerminalListQuery.cs",
+              "ToolTip": "E:\\PORTIMAGES.Solution\\PORTIMAGES.Application\\Admin\\Queries\\GetTerminalListQuery.cs",
+              "RelativeToolTip": "PORTIMAGES.Application\\Admin\\Queries\\GetTerminalListQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T06:54:32.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetPortListQuery.cs",
+              "DocumentMoniker": "E:\\PORTIMAGES.Solution\\PORTIMAGES.Application\\Admin\\Queries\\GetPortListQuery.cs",
+              "RelativeDocumentMoniker": "PORTIMAGES.Application\\Admin\\Queries\\GetPortListQuery.cs",
+              "ToolTip": "E:\\PORTIMAGES.Solution\\PORTIMAGES.Application\\Admin\\Queries\\GetPortListQuery.cs",
+              "RelativeToolTip": "PORTIMAGES.Application\\Admin\\Queries\\GetPortListQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T06:56:33.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MasterController.cs",
+              "DocumentMoniker": "E:\\PORTIMAGES.Solution\\PORTIMAGES.Web\\Controllers\\Admin\\MasterController.cs",
+              "RelativeDocumentMoniker": "PORTIMAGES.Web\\Controllers\\Admin\\MasterController.cs",
+              "ToolTip": "E:\\PORTIMAGES.Solution\\PORTIMAGES.Web\\Controllers\\Admin\\MasterController.cs",
+              "RelativeToolTip": "PORTIMAGES.Web\\Controllers\\Admin\\MasterController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAADwv0wAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T06:51:10.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

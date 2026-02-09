@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\PORTIMAGES.Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA9B5386-DFEA-433C-B7EA-1153BC6A0AA3}|PORTIMAGES.Infrastructure\\PORTIMAGES.Infrastructure.csproj|e:\\portimages.solution\\portimages.infrastructure\\repositories\\admin\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA9B5386-DFEA-433C-B7EA-1153BC6A0AA3}|PORTIMAGES.Infrastructure\\PORTIMAGES.Infrastructure.csproj|solutionrelative:portimages.infrastructure\\repositories\\admin\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA9B5386-DFEA-433C-B7EA-1153BC6A0AA3}|PORTIMAGES.Infrastructure\\PORTIMAGES.Infrastructure.csproj|e:\\portimages.solution\\portimages.infrastructure\\repositories\\admin\\terminalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA9B5386-DFEA-433C-B7EA-1153BC6A0AA3}|PORTIMAGES.Infrastructure\\PORTIMAGES.Infrastructure.csproj|solutionrelative:portimages.infrastructure\\repositories\\admin\\terminalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B891EF-EC92-4FB4-A1AC-386753BA75C7}|PORTIMAGES.Web\\PORTIMAGES.Web.csproj|e:\\portimages.solution\\portimages.web\\views\\master\\citymaster.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92B891EF-EC92-4FB4-A1AC-386753BA75C7}|PORTIMAGES.Web\\PORTIMAGES.Web.csproj|solutionrelative:portimages.web\\views\\master\\citymaster.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B891EF-EC92-4FB4-A1AC-386753BA75C7}|PORTIMAGES.Web\\PORTIMAGES.Web.csproj|e:\\portimages.solution\\portimages.web\\controllers\\admin\\mastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92B891EF-EC92-4FB4-A1AC-386753BA75C7}|PORTIMAGES.Web\\PORTIMAGES.Web.csproj|solutionrelative:portimages.web\\controllers\\admin\\mastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TerminalRepository.cs",
+              "DocumentMoniker": "E:\\PORTIMAGES.Solution\\PORTIMAGES.Infrastructure\\Repositories\\Admin\\TerminalRepository.cs",
+              "RelativeDocumentMoniker": "PORTIMAGES.Infrastructure\\Repositories\\Admin\\TerminalRepository.cs",
+              "ToolTip": "E:\\PORTIMAGES.Solution\\PORTIMAGES.Infrastructure\\Repositories\\Admin\\TerminalRepository.cs",
+              "RelativeToolTip": "PORTIMAGES.Infrastructure\\Repositories\\Admin\\TerminalRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T18:52:22.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CityRepository.cs",
+              "DocumentMoniker": "E:\\PORTIMAGES.Solution\\PORTIMAGES.Infrastructure\\Repositories\\Admin\\CityRepository.cs",
+              "RelativeDocumentMoniker": "PORTIMAGES.Infrastructure\\Repositories\\Admin\\CityRepository.cs",
+              "ToolTip": "E:\\PORTIMAGES.Solution\\PORTIMAGES.Infrastructure\\Repositories\\Admin\\CityRepository.cs",
+              "RelativeToolTip": "PORTIMAGES.Infrastructure\\Repositories\\Admin\\CityRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwBYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T18:49:09.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CityMaster.cshtml",
+              "DocumentMoniker": "E:\\PORTIMAGES.Solution\\PORTIMAGES.Web\\Views\\Master\\CityMaster.cshtml",
+              "RelativeDocumentMoniker": "PORTIMAGES.Web\\Views\\Master\\CityMaster.cshtml",
+              "ToolTip": "E:\\PORTIMAGES.Solution\\PORTIMAGES.Web\\Views\\Master\\CityMaster.cshtml",
+              "RelativeToolTip": "PORTIMAGES.Web\\Views\\Master\\CityMaster.cshtml",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAmwH4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-17T18:28:12.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MasterController.cs",
+              "DocumentMoniker": "E:\\PORTIMAGES.Solution\\PORTIMAGES.Web\\Controllers\\Admin\\MasterController.cs",
+              "RelativeDocumentMoniker": "PORTIMAGES.Web\\Controllers\\Admin\\MasterController.cs",
+              "ToolTip": "E:\\PORTIMAGES.Solution\\PORTIMAGES.Web\\Controllers\\Admin\\MasterController.cs",
+              "RelativeToolTip": "PORTIMAGES.Web\\Controllers\\Admin\\MasterController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwB8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T06:51:10.865Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
